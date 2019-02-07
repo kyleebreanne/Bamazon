@@ -1,7 +1,8 @@
 # Bamazon
 Run the Bamazon Customer file to view inventory, select and 'purchase' an item
-Customer Side of Bamazon
-Inventory
+
+****Customer Side of Bamazon
+***Inventory
 ![bamazon1](https://user-images.githubusercontent.com/44128719/52386323-d61ddc00-2a42-11e9-89d8-7f63c63895b8.png)
 ![bamazon2](https://user-images.githubusercontent.com/44128719/52386402-344abf00-2a43-11e9-95b3-afcb43153cb1.png)
 
